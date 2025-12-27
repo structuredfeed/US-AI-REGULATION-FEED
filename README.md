@@ -3,12 +3,12 @@ Repository for converting official regulatory publications and public insights i
 
 Legal position
 We are not a 
-- law firm
-= A regulator
-- A compliance Authority
+law firm
+A regulator
+A compliance Authority
 
 We are a
-= transformer of public regulatory information into structured data
+Transformer of public regulatory information into structured data
 
 Sources
 Federal register
