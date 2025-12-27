@@ -2,14 +2,11 @@
 Repository for converting official regulatory publications and public insights into consistent JSON representations (US).
 
 # Legal position
-# We are not a 
-# law firm
-# A regulator
-# A compliance Authority
+We are not a, law firm, a regulator, a compliance authority
 
 We are a
-Transformer of public regulatory information into structured data
+transformer of public regulatory information into structured data
 
-Sources
+# Sources
 Federal register
 
