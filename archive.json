@@ -1,13 +1,28 @@
-{
-  "date_published": "2025-12-23",
-  "jurisdiction": "United States",
-  "issuing_body": "Department of Health and Human Services (HHS), Office of the Deputy Secretary, ASTP/ONC",
-  "document_title": "Request for Information: Accelerating the Adoption and Use of Artificial Intelligence as Part of Clinical Care",
-  "document_type": "Request for Information",
-  "summary_plain_language": "The Department of Health and Human Services is requesting public input on actions it could take to accelerate the adoption and use of artificial intelligence in clinical care.",
-  "who_it_applies_to": "Members of the public and stakeholders with interest or involvement in artificial intelligence and clinical care",
-  "what_changed": "Publication of a request for information seeking public comment; no regulatory requirements were announced",
-  "recommended_action": "Review the request for information and consider submitting public comments if relevant",
-  "risk_level": "not specified",
-  "source_url": "https://www.federalregister.gov/documents/2025/12/23/2025-23641/request-for-information-accelerating-the-adoption-and-use-of-artificial-intelligence-as-part-of"
-}
+[
+  {
+    "date_published": "2025-12-23",
+    "jurisdiction": "United States",
+    "issuing_body": "Department of Health and Human Services (HHS), Office of the Deputy Secretary, ASTP/ONC",
+    "document_title": "Request for Information: Accelerating the Adoption and Use of Artificial Intelligence as Part of Clinical Care",
+    "document_type": "Request for Information",
+    "summary_plain_language": "The Department of Health and Human Services is requesting public input on actions it could take to accelerate the adoption and use of artificial intelligence in clinical care.",
+    "who_it_applies_to": "Members of the public and stakeholders with interest or involvement in artificial intelligence and clinical care",
+    "what_changed": "Publication of a request for information seeking public comment; no regulatory requirements were announced",
+    "recommended_action": "Review the request for information and consider submitting public comments if relevant",
+    "risk_level": "not specified",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/23/2025-23641/request-for-information-accelerating-the-adoption-and-use-of-artificial-intelligence-as-part-of"
+  },
+  {
+    "date_published": "2025-12-05",
+    "jurisdiction": "United States",
+    "issuing_body": "Department of Energy (DOE)",
+    "document_title": "Request for Information (RFI) on Partnerships for Transformational Artificial Intelligence Models",
+    "document_type": "Request for Information",
+    "summary_plain_language": "The Department of Energy is requesting public input on how it should structure and enable partnerships to curate Department of Energy scientific data for use in artificial intelligence models, including models intended to improve themselves for science and engineering applications.",
+    "who_it_applies_to": "Industry participants, think tanks, investors, research organizations, and other stakeholders interested in artificial intelligence, scientific data, and partnerships with the Department of Energy",
+    "what_changed": "Publication of a request for information seeking public comment; no regulatory requirements or obligations were introduced",
+    "recommended_action": "Review the request for information and submit public comments if relevant",
+    "risk_level": "not specified",
+    "source_url": "https://www.federalregister.gov/documents/2025/12/05/2025-22127/request-for-information-rfi-on-partnerships-for-transformational-artificial-intelligence-models"
+  }
+]
