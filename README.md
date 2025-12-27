@@ -17,6 +17,10 @@ The purpose of this feed is to transform publicly available regulatory informati
 - This does not replace official publications
 - This does not guarantee regulatory compliance
 
+## Data Structure
+- `data/latest.json` — the most recent US AI related regulatory item
+- `data/archive.json` — historical archive of all accepted items
+
 ## Data Sources
 This feed is derived exclusively from official, publicly available government sources, including:
 
