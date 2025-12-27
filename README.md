@@ -1,4 +1,4 @@
-# Machine-Readable AI Regulation Feed (US · EU · UK)
+# Machine-Readable AI Regulation Feed (US)
 
 ## Overview
 This repository provides a machine-readable JSON feed of official artificial intelligence (AI) regulation, policy, and guidance updates from public authorities in the United States, European Union, and United Kingdom.
