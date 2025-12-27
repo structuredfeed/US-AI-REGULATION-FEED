@@ -24,5 +24,57 @@
     "recommended_action": "Review the request for information and submit public comments if relevant",
     "risk_level": "not specified",
     "source_url": "https://www.federalregister.gov/documents/2025/12/05/2025-22127/request-for-information-rfi-on-partnerships-for-transformational-artificial-intelligence-models"
-  }
+  },
+  {
+    "date_published": "2025-12-22",
+    "jurisdiction": "United States",
+    "issuing_body": "National Institute of Standards and Technology (NIST)",
+    "document_title": "NIST Launches Centers for AI in Manufacturing and Critical Infrastructure",
+    "document_type": "Guidance / Capability Initiative",
+    "summary_plain_language": "The National Institute of Standards and Technology announced the launch of centers focused on artificial intelligence in manufacturing and critical infrastructure and expanded its collaboration with a nonprofit organization as part of efforts related to artificial intelligence leadership.",
+    "who_it_applies_to": "Organizations and stakeholders involved in artificial intelligence, manufacturing, and critical infrastructure",
+    "what_changed": "Announcement of new centers and expanded collaboration related to artificial intelligence; no binding requirements were introduced",
+    "recommended_action": "Monitor the initiative and review available information if participation or alignment is relevant",
+    "risk_level": "not specified",
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/nist-launches-centers-ai-manufacturing-and-critical-infrastructure"
+  },
+  {
+    "date_published": "2025-12-16",
+    "jurisdiction": "United States",
+    "issuing_body": "National Institute of Standards and Technology (NIST)",
+    "document_title": "Draft NIST Guidelines Rethink Cybersecurity for the AI Era",
+    "document_type": "Draft Guidance",
+    "summary_plain_language": "The National Institute of Standards and Technology released draft guidelines intended to help organizations consider how to incorporate artificial intelligence into operations while addressing cybersecurity risks.",
+    "who_it_applies_to": "Organizations considering or using artificial intelligence in their operations",
+    "what_changed": "Release of draft, non-binding guidance related to artificial intelligence and cybersecurity; no mandatory requirements were established",
+    "recommended_action": "Review the draft guidelines and consider providing feedback or evaluating internal practices in light of the guidance",
+    "risk_level": "not specified",
+    "source_url": "https://www.nist.gov/news-events/news/2025/12/draft-nist-guidelines-rethink-cybersecurity-ai-era"
+  },
+  {
+    "date_published": "2025-09-30",
+    "jurisdiction": "United States",
+    "issuing_body": "National Institute of Standards and Technology (NIST)",
+    "document_title": "CAISI Evaluation of DeepSeek AI Models Finds Shortcomings and Risks",
+    "document_type": "AI Model Evaluation",
+    "summary_plain_language": "The National Institute of Standards and Technology, through its Center for AI Standards and Innovation, evaluated selected artificial intelligence models developed by DeepSeek and reported identified shortcomings and potential risks based on the evaluation.",
+    "who_it_applies_to": "Developers, deployers, and other stakeholders with interest in the evaluated artificial intelligence models",
+    "what_changed": "Publication of technical evaluation results identifying shortcomings and potential risks; no regulatory or compliance requirements were introduced",
+    "recommended_action": "Review the evaluation findings if relevant to the use, development, or assessment of similar artificial intelligence models",
+    "risk_level": "not specified",
+    "source_url": "https://www.nist.gov/news-events/news/2025/09/caisi-evaluation-deepseek-ai-models-finds-shortcomings-and-risks"
+  },
+  {
+    "date_published": "2025-08-18",
+    "jurisdiction": "United States",
+    "issuing_body": "National Institute of Standards and Technology (NIST)",
+    "document_title": "NIST Guidelines Can Help Organizations Detect Face Photo Morphs, Deter Identity Fraud",
+    "document_type": "Guidance",
+    "summary_plain_language": "The National Institute of Standards and Technology released technical guidance intended to help organizations detect face photo morphing techniques associated with identity fraud.",
+    "who_it_applies_to": "Organizations involved in identity verification, authentication, or fraud prevention",
+    "what_changed": "Release of non-binding technical guidance related to detecting face photo morphing; no mandatory requirements were introduced",
+    "recommended_action": "Review the guidance and consider its relevance to identity verification or fraud detection processes",
+    "risk_level": "not specified",
+    "source_url": "https://www.nist.gov/news-events/news/2025/08/nist-guidelines-can-help-organizations-detect-face-photo-morphs-deter"
+  },
 ]
