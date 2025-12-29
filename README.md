@@ -22,7 +22,7 @@ The purpose of this feed is to transform publicly available regulatory informati
 - `data/archive.json` — historical archive of all accepted items
 
 ## Data Sources
-See sources/us_sources.md for a full list of official sources.
+See `sources/us_sources.md` for a full list of official sources.
 
 ## Methodology
 - Only official summaries, abstracts, and metadata are used
