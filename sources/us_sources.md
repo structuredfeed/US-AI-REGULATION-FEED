@@ -2,31 +2,21 @@
 This feed is derived exclusively from official, publicly available government sources, including:
 
 
-#Federal Register
-Publisher: Office of the Federal Register, National Archives and Records Administration
-Content Type:
-Federal rules, notices, proposed regulations, executive documents
-Access Method:
-Official Federal Register API
-Base URL:
-https://www.federalregister.gov/developers/documentation/api
-License:
-Public Domain (17 U.S.C. §105)
-Notes:
-This is the authoritative daily journal of the U.S. Federal Government.
+Federal Register
+= Publisher: Office of the Federal Register, National Archives and Records Administration
+= Content Type:Federal rules, notices, proposed regulations, executive documents
+= Access Method: Official Federal Register API
+= Base URL: https://www.federalregister.gov/developers/documentation/api
+= License: Public Domain (17 U.S.C. §105)
+= Notes: This is the authoritative daily journal of the U.S. Federal Government.
 
-#National Institute of Standards and Technology (NIST)
-Publisher: U.S. Department of Commerce
-Content Type:
-Standards, frameworks, technical guidance, publications
-Access Method:
-Official RSS feeds and public publication endpoints
-Base URL:
-https://www.nist.gov
-License:
-Public Domain (17 U.S.C. §105)
-Notes:
-All NIST publications are public domain unless otherwise stated.
+National Institute of Standards and Technology (NIST)
+= Publisher: U.S. Department of Commerce
+- Content Type: Standards, frameworks, technical guidance, publications
+= Access Method: Official RSS feeds and public publication endpoints
+- Base URL: https://www.nist.gov
+- License: Public Domain (17 U.S.C. §105)
+- Notes: All NIST publications are public domain unless otherwise stated.
 
 Legal & Compliance Statement
 - No scraping or automated extraction of restricted content is performed.
@@ -37,5 +27,6 @@ Legal & Compliance Statement
 Only official summaries, abstracts, and metadata are used. Full legal texts, standards documents, and PDFs are not republished.
 
 All underlying source documents remain the property of their respective issuing authorities.
+
 
 
