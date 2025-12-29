@@ -45,13 +45,25 @@ This feed is intended for:
 
 Users are responsible for determining how the information is used within their own compliance or decision-making processes.
 
+## Compatibility Statement
+Public Domain content is fully compatible with the MIT License.
+Open Government Licence v3.0 and EU Open Data Licence are permissive and MIT-compatible when:
+Attribution is preserved
+No endorsement is implied
+This repository does not redistribute full copyrighted texts where restrictions apply.
+
+## Repository License
+This repository is licensed under the MIT License.
+The MIT License applies only to:
+Original code
+Original JSON structures
+Metadata schemas
+Generated prompts and classification logic
+This repository provides a licensed structured representation of public information.
+The underlying regulatory texts are public records governed by their respective jurisdictions.
+
 ## Disclaimer
 This feed is provided "as is" without warranties of any kind.
 No liability is assumed for errors, omissions, or interpretations.
 Users should consult qualified legal professionals for regulatory or compliance advice.
-
-## License
-This repository provides a licensed structured representation of public information.
-The underlying regulatory texts are public records governed by their respective jurisdictions.
-
 
