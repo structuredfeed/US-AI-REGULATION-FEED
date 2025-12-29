@@ -24,6 +24,33 @@ The purpose of this feed is to transform publicly available regulatory informati
 ## Data Sources
 See `sources/us_sources.md` for a full list of official sources.
 
+## Versioning & Data Scope
+This repository follows a rolling release model.
+- Version identifiers (e.g. v1.0) represent a stable snapshot of all qualifying regulatory instruments available at the time of release.
+- The latest.json file points to the most recently published qualifying instrument at build time.
+- The archive/ directory contains all previously indexed instruments preserved immutably.
+
+## Inclusion Criteria
+This dataset includes:
+- Primary legislation (Acts)
+- Secondary legislation (e.g. Regulations, Statutory Instruments)
+- Official amendments and commencement instruments where applicable
+- Devolved or federal equivalents where within scope (e.g. Welsh Statutory Instruments)
+
+## Metadata Completeness
+- Some official sources publish legislation with partial metadata (e.g. missing titles or summaries at time of publication).
+- Such records are included unaltered to preserve fidelity with the authoritative source.
+- Metadata completeness may improve in later versions without altering historical records.
+
+## AI, Data, and Digital Relevance Flags
+- Relevance indicators are generated using conservative classification rules.
+- Flags may include false positives where legislation references automation, systems, or electronic processes without explicitly regulating artificial intelligence.
+- These indicators are informational only and do not constitute legal interpretation.
+
+## Jurisdictional Integrity
+- Each repository is jurisdiction-specific.
+- Cross-jurisdictional instruments are indexed only where they are officially incorporated or retained within the relevant legal framework.
+
 ## Methodology
 - Only official summaries, abstracts, and metadata are used
 - Full legal texts are not republished
