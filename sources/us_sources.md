@@ -11,9 +11,9 @@ Federal Register
 - Notes: This is the authoritative daily journal of the U.S. Federal Government.
 
 National Institute of Standards and Technology (NIST)
-= Publisher: U.S. Department of Commerce
+- Publisher: U.S. Department of Commerce
 - Content Type: Standards, frameworks, technical guidance, publications
-= Access Method: Official RSS feeds and public publication endpoints
+- Access Method: Official RSS feeds and public publication endpoints
 - Base URL: https://www.nist.gov
 - License: Public Domain (17 U.S.C. §105)
 - Notes: All NIST publications are public domain unless otherwise stated.
@@ -27,6 +27,7 @@ Legal & Compliance Statement
 Only official summaries, abstracts, and metadata are used. Full legal texts, standards documents, and PDFs are not republished.
 
 All underlying source documents remain the property of their respective issuing authorities.
+
 
 
 
