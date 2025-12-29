@@ -3,12 +3,12 @@ This feed is derived exclusively from official, publicly available government so
 
 
 Federal Register
-= Publisher: Office of the Federal Register, National Archives and Records Administration
-= Content Type:Federal rules, notices, proposed regulations, executive documents
-= Access Method: Official Federal Register API
-= Base URL: https://www.federalregister.gov/developers/documentation/api
-= License: Public Domain (17 U.S.C. §105)
-= Notes: This is the authoritative daily journal of the U.S. Federal Government.
+- Publisher: Office of the Federal Register, National Archives and Records Administration
+- Content Type:Federal rules, notices, proposed regulations, executive documents
+- Access Method: Official Federal Register API
+- Base URL: https://www.federalregister.gov/developers/documentation/api
+- License: Public Domain (17 U.S.C. §105)
+- Notes: This is the authoritative daily journal of the U.S. Federal Government.
 
 National Institute of Standards and Technology (NIST)
 = Publisher: U.S. Department of Commerce
@@ -27,6 +27,7 @@ Legal & Compliance Statement
 Only official summaries, abstracts, and metadata are used. Full legal texts, standards documents, and PDFs are not republished.
 
 All underlying source documents remain the property of their respective issuing authorities.
+
 
 
 
