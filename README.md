@@ -1,7 +1,6 @@
 # Machine Readable AI Regulation Feed (US)
 
 ## Overview
-### test
 This repository provides a machine-readable JSON feed of official artificial intelligence (AI) regulation, policy, and guidance updates from public authorities in the United States, European Union, and United Kingdom.
 
 The purpose of this feed is to transform publicly available regulatory information into a structured, normalized format suitable for automation, monitoring, and internal analysis.
@@ -94,4 +93,6 @@ The underlying regulatory texts are public records governed by their respective 
 This feed is provided "as is" without warranties of any kind.
 No liability is assumed for errors, omissions, or interpretations.
 Users should consult qualified legal professionals for regulatory or compliance advice.
+
+## ---------------------------------------------------------------------------------------------------
 
