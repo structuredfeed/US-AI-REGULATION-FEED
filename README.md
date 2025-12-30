@@ -94,6 +94,7 @@ This repository is licensed under the MIT License.
 - Original JSON structures
 - Metadata schemas
 - Generated prompts and classification logic
+
 This repository provides a licensed structured representation of public information.
 The underlying regulatory texts are public records governed by their respective jurisdictions.
 
