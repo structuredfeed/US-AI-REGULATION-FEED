@@ -73,19 +73,27 @@ This feed is intended for:
 Users are responsible for determining how the information is used within their own compliance or decision-making processes.
 
 ## Compatibility Statement
+This repository aggregates metadata derived from official public-sector sources.
+- US sources: US Government works, public domain
+
 Public Domain content is fully compatible with the MIT License.
 Open Government Licence v3.0 and EU Open Data Licence are permissive and MIT-compatible when:
-Attribution is preserved
-No endorsement is implied
-This repository does not redistribute full copyrighted texts where restrictions apply.
+- Attribution is preserved
+- No endorsement is implied
+
+This repository:
+- Does not redistribute full legislative, regulatory or copyrited text where restrictions apply.
+- Provides metadata, summaries, and links only
+- Is compatible with MIT / Apache-2.0 / CC-BY-4.0 downstream use
+Users are responsible for verifying downstream reuse requirements of linked source material.
 
 ## Repository License
 This repository is licensed under the MIT License.
-The MIT License applies only to:
-Original code
-Original JSON structures
-Metadata schemas
-Generated prompts and classification logic
+- The MIT License applies only to:
+- Original code
+- Original JSON structures
+- Metadata schemas
+- Generated prompts and classification logic
 This repository provides a licensed structured representation of public information.
 The underlying regulatory texts are public records governed by their respective jurisdictions.
 
