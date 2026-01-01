@@ -1,5 +1,9 @@
 # Machine Readable AI Regulation Feed (US)
 
+## Current Release
+- Version: v1.0
+- Status: Frozen
+
 ## Overview
 This repository provides a machine-readable JSON feed of official artificial intelligence (AI) regulation, policy, and guidance updates from public authorities in the United States, European Union, and United Kingdom.
 
