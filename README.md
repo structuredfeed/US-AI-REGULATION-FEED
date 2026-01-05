@@ -17,6 +17,12 @@ The purpose of this feed is to transform publicly available regulatory informati
 - This does not replace official publications
 - This does not guarantee regulatory compliance
 
+## Product Packaging
+
+This repository represents a jurisdiction-specific SKU within a multi-region AI regulatory dataset.
+
+Each SKU conforms to the same locked schema and governance model, enabling seamless combination across regions.
+
 ## Data Structure
 - `data/latest.json` — the most recent US AI related regulatory item
 - `data/archive.json` — historical archive of all accepted items
